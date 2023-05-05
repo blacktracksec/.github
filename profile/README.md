@@ -7,6 +7,3 @@ BlackTrack is a distro free for penetration focused at network like ,wireless,Ro
 BlackTrack is built on Debian based 
 
 BlackTrack is a distribution or distro made based on debian, BlackTrack is designed for cyber security experts as well as for hackers and a student or focuses on network hacking or network penetration testing, BlackTrack can be used by everyone, BlackTrack is a free distro! Try BlackTrack now!
-
-- Dev:
-  [joe](https://github.com/me-joe)
