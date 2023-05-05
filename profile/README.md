@@ -1,5 +1,7 @@
 ### BlackTrack - Official github
 
+<img src="../assets/blacktrack-laptop.png" width="100px">
+
 Off to a great start with using BlackTrack
 Network Cyber Security Distro
 
