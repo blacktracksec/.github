@@ -11,3 +11,8 @@ BlackTrack is a distribution or distro made based on debian, BlackTrack is desig
 * (BlackTrack Official Pages)[https://blacktrack-debian.github.io]
 * (BlackTrack Official Telegram Group/Community)[https://t.me/blacktrack_distro]
 * (BlackTrack Official Telegram Channel)[https://t.me/BlackTrack_Debian]
+
+* [https://blacktrack-debian.github.io](BlackTrack Official Pages)
+* [https://t.me/blacktrack_distro](BlackTrack Official Telegram Group/Community)
+* [https://t.me/BlackTrack_Debian](BlackTrack Official Telegram Channel)
+* [https://github.com/BlackTrack-Debian](BlackTrack Official github Pages)
