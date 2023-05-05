@@ -1,6 +1,6 @@
 ### BlackTrack - Official github
 
-<img src="../assets/blacktrack-laptop.png" width="100px">
+<img src="https://github.com/BlackTrack-Debian/.github/blob/main/assets/blacktrack-laptop.png" width="100%">
 
 Off to a great start with using BlackTrack
 Network Cyber Security Distro
