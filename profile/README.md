@@ -8,4 +8,5 @@ BlackTrack is built on Debian based
 
 BlackTrack is a distribution or distro made based on debian, BlackTrack is designed for cyber security experts as well as for hackers and a student or focuses on network hacking or network penetration testing, BlackTrack can be used by everyone, BlackTrack is a free distro! Try BlackTrack now!
 
-Dev:  [github.com/me-joe](Joe)
+*Dev:
+  [joe](github.com/me-joe)
