@@ -3,12 +3,12 @@
 <img src="https://github.com/BlackTrack-Debian/.github/blob/main/assets/blacktrack-laptop.png" width="100%">
 
 Off to a great start with using BlackTrack
-Network Cyber Security Distro
+Network Cyber Security Distribution
 
-BlackTrack is a distro free for penetration focused at network like ,wireless,Router and etc.
+BlackTrack is a platform free for penetration focused at network like ,wireless,Router and etc.
 BlackTrack is built on Debian based 
 
-BlackTrack is a distribution or distro made based on debian, BlackTrack is designed for cyber security experts as well as for hackers and a student or focuses on network hacking or network penetration testing, BlackTrack can be used by everyone, BlackTrack is a free distro! Try BlackTrack now!
+BlackTrack is a distribution made based on debian, BlackTrack is designed for cyber security experts as well as for hackers and a student or focuses on network hacking or network penetration testing, BlackTrack can be used by everyone, BlackTrack is a free Distribution! Try BlackTrack now!
 
 * [BlackTrack Official Pages](https://t.me/blacktrack_distro)
 * [BlackTrack Official Telegram Group/Community](https://t.me/blacktrack_distro)
