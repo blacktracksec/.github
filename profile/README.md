@@ -1,6 +1,7 @@
 ### BlackTrack - Security
 - github
 
+<img src="../assets/bt-git_banner.jpg">
 
 Off to a great start with using BlackTrack
 Network Cyber Security Distribution
