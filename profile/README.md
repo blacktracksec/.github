@@ -1,7 +1,7 @@
 ### BlackTrack - Security
 - github
 
-<img src="https://raw.githubusercontent.com/redishlinux/.github/main/assets/logo-text.png">
+<img src="https://raw.githubusercontent.com/blacktracksec/.github/refs/heads/main/assets/blacktrack_banner.gif">
 
 Off to a great start with using BlackTrack
 Network Cyber Security Distribution
