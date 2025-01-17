@@ -1,7 +1,7 @@
 ### BlackTrack - Security
 - github
 
-<img src="https://raw.githubusercontent.com/blacktracksec/.github/refs/heads/main/assets/blacktrack_banner.gif">
+![BlackTrack Banner](https://github.com/blacktracksec/.github/blob/main/assets/blacktrack-batik.png)
 
 Off to a great start with using BlackTrack
 Network Cyber Security Distribution
